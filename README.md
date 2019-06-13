@@ -1,4 +1,4 @@
-# FindMyFlatMateRemade
+# FindMyFlatMate
 FindMyFlatMate is a site for students to advertise vacant rooms in their student homes that need to be filled for the next academic year.
 This is based on a my own experience when at University, where the only way to find a vacancy in a house would be to scroll through a very large
 Facebook page with hundreds of daily posts, making it hard to find previous listings.
